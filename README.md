@@ -20,7 +20,7 @@
 
 ## 🛠️ Installation & Setup
 
-1. **Download the latest version** of ProjectAlpha from the [Releases](#) page.
+1. **Download the latest version** of ProjectAlpha from the [Releases](#1) page.
 2. Extract the downloaded files into a directory of your choice.
 3. Connect your Nintendo Switch to your PC using a compatible cable.
 4. Run the macro program , open ProjectAlpha.exe .
