@@ -1,5 +1,5 @@
 # 🌟 ProjectAlpha - Minecraft Switch Macro 🌟
-![ProjectAlpha](https://youtu.be/NhL6-w-YIZA)
+![ProjectAlpha]([https://youtu.be/NhL6-w-YIZA](https://www.youtube.com/watch?v=NhL6-w-YIZA))
 ![ProjectAlpha](https://media.discordapp.net/attachments/1133757496801116222/1310729736548257853/image.png?ex=674647b1&is=6744f631&hm=76a171de1d2172132554d1d725fc0dba934f335f36709521527d371dc7b815a8&=&format=webp&quality=lossless)
 
 ## 🎮 About ProjectAlpha
